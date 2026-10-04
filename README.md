@@ -60,5 +60,3 @@ The username field was tested with:
 ### 3. Successful Portal Access
 
 Following successful authentication bypass, the patient portal displayed three laboratory reports available for download.
-
-[View portal access evidence](https://github.com/priyakg309/NETWORKWALKS-PRIYA-B083-WK4-MEDIROZA-PENETRATION-TEST/blob/main/M1/03-portal-access-reports.png)
